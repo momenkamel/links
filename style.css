@@ -126,6 +126,7 @@ body{
 @media (max-width:754px) {
 
     .mainContainer{
+	height: 100%;
         width: 100%;
     }
     
