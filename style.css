@@ -123,3 +123,10 @@ body{
     background-color:hsl(75, 94%, 57%);
     color:hsl(0, 0%, 20%);
 }
+@media (max-width:754px) {
+
+    .mainContainer{
+        width: 100%;
+    }
+    
+}
